@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8871-CDB9
+
+ Directory of C:\MyProjectGIT
+
+09/04/2021  06:34 PM    <DIR>          .
+09/04/2021  06:34 PM    <DIR>          ..
+09/04/2021  06:34 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  179,839,832,064 bytes free
