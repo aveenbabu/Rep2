@@ -1,0 +1,30 @@
+[
+{
+
+"endpoint" : "api/register/preprod",
+"email": "eve.holt22422@reqres.in",
+    "password": "123pistol9999"
+
+},
+{
+"endpoint" : "api/register/preprod",
+"email": "eve.holt21112@reqres.in",
+    "password": "88888test123"
+
+},
+
+{
+"endpoint" : "api/register/preprod",
+"email": "eve.holt_test@reqres.in",
+    "password": "77777test123"
+
+},
+{
+"endpoint" : "api/register/preprod",
+"email": "eve.holt_test123@reqres.in",
+    "password": "6666testeee123"
+
+}
+
+
+]
